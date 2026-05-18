@@ -15,7 +15,7 @@ I'm a software developer focused on **air traffic control systems** — the kind
 
 **Experience**
 
-**Senior Developer — FlightZone Red Labs**
+**Senior Developer — Aurora Bay Airport building FlightZone ATC Console**
 Designing and building next-generation air traffic control software — focused on safety, correctness, and systems that scale without cutting corners.
 
 ---
