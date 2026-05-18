@@ -9,7 +9,7 @@ I'm a software developer focused on **air traffic control systems** — the kind
 
 **What I work with**
 
-`Python` `FastAPI` `React` · `AWS` `GCP` · `ATC Automation` `System Integration`
+`Python` `FastAPI` `React` · `AWS` `GCP` · `ATC Automation` `System Integration` `LLM integration` `Prompt Engineering`
 
 ---
 
